@@ -1,0 +1,13 @@
+.webname {
+  animation-name: fedweb;
+  animation-duration: 10s;
+}
+
+@keyframes fedweb {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
